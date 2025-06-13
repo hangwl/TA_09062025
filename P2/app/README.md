@@ -2,6 +2,16 @@
 
 **BookFindr** is a [Next.js](https://nextjs.org/docs) web application that uses [Shadcn UI](https://ui.shadcn.com/docs/installation) components built with [Radix UI](https://www.radix-ui.com/themes/docs/overview/getting-started) primitives and [Tailwind CSS](https://tailwindcss.com/) for styling. Users can use it to search for books using the [Google Books API](https://developers.google.com/books). It is designed to be clean, responsive and user-friendly for both desktop and mobile users.
 
+## Demo
+
+### Video 1
+
+[![Demo 1](https://i.ytimg.com/vi/6IVMDWei2sE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC06G25-WytakVWaiPWTDRYCj3sjg)](https://www.youtube.com/watch?v=6IVMDWei2sE)
+
+### Video 2
+
+[![Demo 2](https://i.ytimg.com/an_webp/TAyGyXtC1kE/mqdefault_6s.webp?du=3000&sqp=CMXEr8IG&rs=AOn4CLCXZNr5VK8oH3ICbwPqt3FGMHvB5A)](https://www.youtube.com/watch?v=TAyGyXtC1kE)
+
 ## Features
 
 The application showcases the following features:
